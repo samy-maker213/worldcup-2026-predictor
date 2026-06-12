@@ -1,0 +1,18 @@
+{
+  "Mexico": {"pays": "Mexique", "altitude_m": 2240, "toit": false},
+  "Guadalajara": {"pays": "Mexique", "altitude_m": 1566, "toit": false},
+  "Monterrey": {"pays": "Mexique", "altitude_m": 540, "toit": false},
+  "Atlanta": {"pays": "États-Unis", "altitude_m": 320, "toit": true},
+  "Boston": {"pays": "États-Unis", "altitude_m": 89, "toit": false},
+  "Dallas": {"pays": "États-Unis", "altitude_m": 184, "toit": true},
+  "Houston": {"pays": "États-Unis", "altitude_m": 15, "toit": true},
+  "Kansas City": {"pays": "États-Unis", "altitude_m": 270, "toit": false},
+  "Los Angeles": {"pays": "États-Unis", "altitude_m": 45, "toit": true},
+  "Miami": {"pays": "États-Unis", "altitude_m": 3, "toit": false},
+  "New York": {"pays": "États-Unis", "altitude_m": 2, "toit": false},
+  "Philadelphie": {"pays": "États-Unis", "altitude_m": 12, "toit": false},
+  "San Francisco": {"pays": "États-Unis", "altitude_m": 7, "toit": false},
+  "Seattle": {"pays": "États-Unis", "altitude_m": 56, "toit": false},
+  "Toronto": {"pays": "Canada", "altitude_m": 76, "toit": false},
+  "Vancouver": {"pays": "Canada", "altitude_m": 0, "toit": true}
+}
