@@ -1,0 +1,32 @@
+{
+  "3": {
+    "horodatage": "2026-06-12T16:54:11",
+    "equipe1": "Canada",
+    "equipe2": "Bosnie-Herzégovine",
+    "probas": [
+      0.7713718131142298,
+      0.16494576798521354,
+      0.0636661519360271
+    ],
+    "score_probable": [
+      2,
+      0
+    ],
+    "favori_naif": "1"
+  },
+  "4": {
+    "horodatage": "2026-06-12T16:54:11",
+    "equipe1": "États-Unis",
+    "equipe2": "Paraguay",
+    "probas": [
+      0.3200077755799137,
+      0.2621972744158874,
+      0.417794598161692
+    ],
+    "score_probable": [
+      1,
+      1
+    ],
+    "favori_naif": "2"
+  }
+}
