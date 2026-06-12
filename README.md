@@ -19,6 +19,12 @@ chaque journée de matchs (voir GUIDE.md).
   Elo statique à l'intérieur d'une simulation.
 - Projet d'APPRENTISSAGE. Ne pas utiliser pour parier de l'argent.
 
+## Installation (Windows)
+
+    py -m venv .venv
+    .venv\Scripts\python -m pip install -r requirements.txt
+    .venv\Scripts\python -m pytest        # 27 tests doivent passer
+
 ## Commandes
 
     .venv\Scripts\python predire.py matchs    # prédit la prochaine journée
