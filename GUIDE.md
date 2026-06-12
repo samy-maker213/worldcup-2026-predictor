@@ -27,6 +27,7 @@ depuis le dossier Prono-CDM :
 
        git add -A
        git commit -m "maj: resultats du <date> + predictions"
+       git push
 
 ## Règles d'honnêteté
 
