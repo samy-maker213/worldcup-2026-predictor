@@ -28,5 +28,65 @@
       1
     ],
     "favori_naif": "2"
+  },
+  "5": {
+    "horodatage": "2026-06-13T12:50:03",
+    "equipe1": "Qatar",
+    "equipe2": "Suisse",
+    "probas": [
+      0.015847120562098242,
+      0.10681596989205937,
+      0.8772876328027484
+    ],
+    "score_probable": [
+      0,
+      2
+    ],
+    "favori_naif": "2"
+  },
+  "6": {
+    "horodatage": "2026-06-13T12:50:03",
+    "equipe1": "Brésil",
+    "equipe2": "Maroc",
+    "probas": [
+      0.6456706216278175,
+      0.2157065281486629,
+      0.13861834858887875
+    ],
+    "score_probable": [
+      1,
+      0
+    ],
+    "favori_naif": "1"
+  },
+  "7": {
+    "horodatage": "2026-06-13T12:50:03",
+    "equipe1": "Haïti",
+    "equipe2": "Écosse",
+    "probas": [
+      0.0844596843477345,
+      0.18226517266302267,
+      0.7332640804105763
+    ],
+    "score_probable": [
+      0,
+      2
+    ],
+    "favori_naif": "2"
+  },
+  "8": {
+    "horodatage": "2026-06-13T12:50:03",
+    "equipe1": "Australie",
+    "equipe2": "Turquie",
+    "probas": [
+      0.16977459076298898,
+      0.22956388504308886,
+      0.6006587403838982
+    ],
+    "score_probable": [
+      0,
+      1
+    ],
+    "favori_naif": "2"
   }
 }

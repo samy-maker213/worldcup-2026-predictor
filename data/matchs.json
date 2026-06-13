@@ -1,8 +1,8 @@
 [
   {"id": 1, "phase": "groupes", "groupe": "A", "date": "2026-06-11", "ville": "Mexico", "equipe1": "Mexique", "equipe2": "Afrique du Sud", "score": [2, 0], "inclus_elo": true},
   {"id": 2, "phase": "groupes", "groupe": "A", "date": "2026-06-11", "ville": "Guadalajara", "equipe1": "Corée du Sud", "equipe2": "Tchéquie", "score": [2, 1], "inclus_elo": true},
-  {"id": 3, "phase": "groupes", "groupe": "B", "date": "2026-06-12", "ville": "Toronto", "equipe1": "Canada", "equipe2": "Bosnie-Herzégovine", "score": null, "inclus_elo": false},
-  {"id": 4, "phase": "groupes", "groupe": "D", "date": "2026-06-12", "ville": "Los Angeles", "equipe1": "États-Unis", "equipe2": "Paraguay", "score": null, "inclus_elo": false},
+  {"id": 3, "phase": "groupes", "groupe": "B", "date": "2026-06-12", "ville": "Toronto", "equipe1": "Canada", "equipe2": "Bosnie-Herzégovine", "score": [1, 1], "inclus_elo": false},
+  {"id": 4, "phase": "groupes", "groupe": "D", "date": "2026-06-12", "ville": "Los Angeles", "equipe1": "États-Unis", "equipe2": "Paraguay", "score": [4, 1], "inclus_elo": false},
   {"id": 5, "phase": "groupes", "groupe": "B", "date": "2026-06-13", "ville": "San Francisco", "equipe1": "Qatar", "equipe2": "Suisse", "score": null, "inclus_elo": false},
   {"id": 6, "phase": "groupes", "groupe": "C", "date": "2026-06-13", "ville": "New York", "equipe1": "Brésil", "equipe2": "Maroc", "score": null, "inclus_elo": false},
   {"id": 7, "phase": "groupes", "groupe": "C", "date": "2026-06-13", "ville": "Boston", "equipe1": "Haïti", "equipe2": "Écosse", "score": null, "inclus_elo": false},

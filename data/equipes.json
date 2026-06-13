@@ -22,12 +22,12 @@
   "Canada": {
     "groupe": "B",
     "elo_initial": 1788,
-    "elo": 1788
+    "elo": 1768.3200371843297
   },
   "Bosnie-Herzégovine": {
     "groupe": "B",
     "elo_initial": 1595,
-    "elo": 1595
+    "elo": 1614.6799628156703
   },
   "Qatar": {
     "groupe": "B",
@@ -62,12 +62,12 @@
   "États-Unis": {
     "groupe": "D",
     "elo_initial": 1726,
-    "elo": 1726
+    "elo": 1782.7218639739933
   },
   "Paraguay": {
     "groupe": "D",
     "elo_initial": 1834,
-    "elo": 1834
+    "elo": 1777.2781360260067
   },
   "Australie": {
     "groupe": "D",
