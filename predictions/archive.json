@@ -88,5 +88,65 @@
       1
     ],
     "favori_naif": "2"
+  },
+  "9": {
+    "horodatage": "2026-06-14T12:47:38",
+    "equipe1": "Allemagne",
+    "equipe2": "Curaçao",
+    "probas": [
+      0.8846751720374796,
+      0.10212995336972845,
+      0.013141364418177306
+    ],
+    "score_probable": [
+      2,
+      0
+    ],
+    "favori_naif": "1"
+  },
+  "10": {
+    "horodatage": "2026-06-14T12:47:38",
+    "equipe1": "Côte d'Ivoire",
+    "equipe2": "Équateur",
+    "probas": [
+      0.07914183338186466,
+      0.17813259441479362,
+      0.742713399907584
+    ],
+    "score_probable": [
+      0,
+      2
+    ],
+    "favori_naif": "2"
+  },
+  "11": {
+    "horodatage": "2026-06-14T12:47:38",
+    "equipe1": "Pays-Bas",
+    "equipe2": "Japon",
+    "probas": [
+      0.44293324057989175,
+      0.26008250886426226,
+      0.2969837970419714
+    ],
+    "score_probable": [
+      1,
+      1
+    ],
+    "favori_naif": "1"
+  },
+  "12": {
+    "horodatage": "2026-06-14T12:47:38",
+    "equipe1": "Suède",
+    "equipe2": "Tunisie",
+    "probas": [
+      0.5175369514466516,
+      0.24923118034100797,
+      0.23323078205352687
+    ],
+    "score_probable": [
+      1,
+      0
+    ],
+    "favori_naif": "1"
   }
 }

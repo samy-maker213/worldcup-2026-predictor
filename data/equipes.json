@@ -32,32 +32,32 @@
   "Qatar": {
     "groupe": "B",
     "elo_initial": 1421,
-    "elo": 1421
+    "elo": 1447.2411565127668
   },
   "Suisse": {
     "groupe": "B",
     "elo_initial": 1891,
-    "elo": 1891
+    "elo": 1864.7588434872332
   },
   "Brésil": {
     "groupe": "C",
     "elo_initial": 1991,
-    "elo": 1991
+    "elo": 1977.8048596431709
   },
   "Maroc": {
     "groupe": "C",
     "elo_initial": 1827,
-    "elo": 1827
+    "elo": 1840.1951403568291
   },
   "Haïti": {
     "groupe": "C",
     "elo_initial": 1548,
-    "elo": 1548
+    "elo": 1535.6184445912902
   },
   "Écosse": {
     "groupe": "C",
     "elo_initial": 1782,
-    "elo": 1782
+    "elo": 1794.3815554087098
   },
   "États-Unis": {
     "groupe": "D",
@@ -72,12 +72,12 @@
   "Australie": {
     "groupe": "D",
     "elo_initial": 1777,
-    "elo": 1777
+    "elo": 1838.5434682774294
   },
   "Turquie": {
     "groupe": "D",
     "elo_initial": 1911,
-    "elo": 1911
+    "elo": 1849.4565317225706
   },
   "Allemagne": {
     "groupe": "E",

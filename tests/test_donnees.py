@@ -19,8 +19,11 @@ def test_48_equipes_12_groupes_de_4():
     assert sorted(groupes) == list("ABCDEFGHIJKL")
     assert all(n == 4 for n in groupes.values())
     for infos in equipes.values():
+        # elo_initial = relevé immuable (eloratings.net 12 juin), sert de base au rejeu.
         assert 1300 < infos["elo_initial"] < 2300
-        assert infos["elo"] == infos["elo_initial"]
+        # elo évolue après chaque journée (maj) ; il doit rester un nombre plausible.
+        assert isinstance(infos["elo"], (int, float))
+        assert 1000 < infos["elo"] < 2500
 
 
 def test_104_matchs_references_valides():
